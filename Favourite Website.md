@@ -3,3 +3,4 @@
 [3] (https://www.canva.com/) "This website one of my favorite website to create a simple design"
 [4] (https://www.flaticon.com/) "This website is for finding icon, vector, and other"
 [5] (https://jkt48.com/) "This website is for finding schedule activities about jkt48"
+[6] (https://google.com/) "This website is for finding anything"
