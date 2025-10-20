@@ -4,3 +4,4 @@
 [4] (https://www.flaticon.com/) "This website is for finding icon, vector, and other"
 [5] (https://jkt48.com/) "This website is for finding schedule activities about jkt48"
 [6] (https://google.com/) "This website is for finding anything"
+[7] (https://vision.avatr.com/) "I really love this website, because the looks of the website so amazing and the performance so fast"
